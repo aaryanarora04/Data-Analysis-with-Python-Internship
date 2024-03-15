@@ -1,7 +1,7 @@
 # Data-Analysis-with-Python-Internship <br>
  Thrilled to Share My Internship Journey! 🌟 <br>
 
-After an enriching experience at [previous position/educational institution], I’m excited to announce that I’ve embarked on a new adventure as an Intern at Main Flow Services and Technologies! 🚀 <br>
+I’m excited to announce that I’ve embarked on a new adventure as an Intern at Main Flow Services and Technologies! 🚀 <br>
 
 🙏 Gratitude: A big shout-out to my mentors for guiding me along this path. Your support has been invaluable!  <br>
 
